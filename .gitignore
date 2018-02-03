@@ -1,0 +1,4 @@
+*.log
+/TODO
+build/
+doc/**/*.txt
